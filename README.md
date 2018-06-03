@@ -26,7 +26,7 @@ Figure 2: Final frame of the 4 videos for BRISK + Hamming Distance:
 
 Figure 3: Final frame of the 4 videos for SIFT + KLT:
 
-![image](https://user-images.githubusercontent.com/31497107/40882830-da432312-66a2-11e8-9804-b505385bb4e7.png)
+![image](https://user-images.githubusercontent.com/31497107/40882863-ae529b06-66a3-11e8-985f-2839418f5013.png)
 
 FIgure 4: Final frame of the 4 videos for SIFT + Euclidean Distance:
 
