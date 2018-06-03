@@ -1,4 +1,4 @@
-# Motion-Estimation-of-Vehicles
+# Motion Estimation of Vehicles
 
 This project presents a study of two keypoint detection techniques, namely SIFT and BRISK for motion estimation task. Motion estimation tracks how an object moves through a scene from one frame to another. The various applications of motion estimation are object segmentation in video, accessing dynamics of a system, quality of an activity and recognizing events and activity. Optical flow techniques are generally used for this task. Optical flow is the apparent motion of object or surface from one frame to another. The most acknowledged optical flow techniques are Lucas-Kanade (LK) and the Kanade-Lucas-Tomasi (KLT) algorithms. Other state of the art methods start with the LK algorithm in addition with gradient constancy, energy minimization with smoothing term, region matching and keypoint matching (long-range).
 
