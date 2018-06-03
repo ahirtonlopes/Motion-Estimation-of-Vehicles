@@ -30,7 +30,7 @@ Figure 3: Final frame of the 4 videos for SIFT + KLT:
 
 FIgure 4: Final frame of the 4 videos for SIFT + Euclidean Distance:
 
-![image](https://user-images.githubusercontent.com/31497107/40882831-e38afad0-66a2-11e8-8f59-e357eb136c63.png)
+![image](https://user-images.githubusercontent.com/31497107/40882869-d7e59446-66a3-11e8-85d3-6f9b54bdbe56.png)
 
 # Conclusion
 
