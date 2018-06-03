@@ -1,7 +1,7 @@
 Project Contributors:
 
-Mandar Rajendra Kulkarni 1213383936
-Rajhans Singh 1213315296
+Mandar Rajendra Kulkarni
+Rajhans Singh
 
 Instructor:
 
